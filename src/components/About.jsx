@@ -7,17 +7,25 @@ export default function About() {
       <div className="relative mx-auto grid max-w-7xl gap-10 lg:grid-cols-[0.92fr_1.08fr] lg:items-center">
         <div className="rounded-[2.5rem] border border-white bg-gradient-to-br from-aqua/20 via-white to-coral/20 p-5 shadow-premium">
           <div className="overflow-hidden rounded-[2rem]">
-            <img src="/images/photo-booth.jpg" alt="ALL KINDS PLAY event setup" className="aspect-[4/5] h-full w-full object-cover" />
+            <img src="/images/founders-amit-jishan.jpg" alt="Amit Kumar and Jishan Bepari from ALL KINDS PLAY" className="aspect-[4/5] h-full w-full object-cover" />
+          </div>
+          <div className="mt-5 grid gap-3 sm:grid-cols-2">
+            <div className="rounded-3xl bg-white/85 p-4 text-center shadow-lg">
+              <p className="font-display text-xl font-black text-ink">Amit Kumar</p>
+            </div>
+            <div className="rounded-3xl bg-white/85 p-4 text-center shadow-lg">
+              <p className="font-display text-xl font-black text-ink">Jishan Bepari</p>
+            </div>
           </div>
         </div>
         <div>
-          <SectionHeading eyebrow="About ALL KINDS PLAY" title="We build fun zones that parents trust and kids remember" align="left">
-            ALL KINDS PLAY delivers unforgettable entertainment experiences for birthday parties, schools, family events, festivals and corporate programs. We specialize in inflatable games, fun attractions, interactive activities and premium entertainment setups designed for all age groups.
+          <SectionHeading eyebrow="About ALL KINDS PLAY" title="We build fun zones that parents trust and guests remember" align="left">
+            ALL KINDS PLAY delivers unforgettable entertainment experiences for birthday parties, schools, family events, weddings, festivals and corporate programs. We specialize in inflatable games, carnival counters, wooden games, interactive activities and premium entertainment setups designed for all age groups.
           </SectionHeading>
           <div className="grid gap-4 sm:grid-cols-3">
             {[
-              ['30+', 'Game options'],
-              ['All ages', 'Kids, adults, teams'],
+              ['70+', 'Game options'],
+              ['All events', 'Birthday, wedding, corporate'],
               ['Fast', 'Setup support'],
             ].map(([value, label]) => (
               <div key={label} className="rounded-3xl bg-ink p-5 text-white shadow-lg">

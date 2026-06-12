@@ -8,7 +8,6 @@ import Gallery from './components/Gallery.jsx';
 import Games from './components/Games.jsx';
 import Hero from './components/Hero.jsx';
 import Navbar from './components/Navbar.jsx';
-import Testimonials from './components/Testimonials.jsx';
 
 export default function App() {
   return (
@@ -20,7 +19,6 @@ export default function App() {
         <Games />
         <Gallery />
         <About />
-        <Testimonials />
         <Booking />
         <Contact />
       </main>

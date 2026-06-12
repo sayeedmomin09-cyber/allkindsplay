@@ -56,7 +56,7 @@ select {
 .field {
   display: grid;
   gap: 0.55rem;
-  color: rgba(255, 255, 255, 0.82);
+  color: #10143a;
   font-size: 0.9rem;
   font-weight: 800;
 }

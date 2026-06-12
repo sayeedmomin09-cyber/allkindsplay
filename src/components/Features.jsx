@@ -6,7 +6,7 @@ const features = [
   { title: 'Quick Setup', icon: TimerReset, text: 'Fast arrival, clean installation, and tidy pack-up so your event schedule stays smooth.' },
   { title: 'Professional Team', icon: UsersRound, text: 'Friendly event handlers who understand kids, guests, crowd flow, and premium service.' },
   { title: 'Indoor & Outdoor', icon: Trees, text: 'Flexible game formats for banquet halls, lawns, schools, apartments, malls, and corporate venues.' },
-  { title: 'Kids & Adults', icon: SmilePlus, text: 'A broad catalog that keeps toddlers, teens, parents, and teams happily involved.' },
+  { title: 'Kids & Adults', icon: SmilePlus, text: 'A broad catalogue that keeps toddlers, teens, parents, and teams happily involved.' },
   { title: 'Premium Equipment', icon: Sparkles, text: 'Bright, photo-ready attractions that make your event look polished from every angle.' },
 ];
 
@@ -14,7 +14,7 @@ export default function Features() {
   return (
     <section className="relative bg-white px-4 py-20 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-7xl">
-        <SectionHeading eyebrow="Why families choose us" title="Event entertainment that looks great and runs smoothly">
+        <SectionHeading eyebrow="Why to choose us" title="Event entertainment that looks great and runs smoothly">
           Premium service, colorful attractions, and games that feel joyful from the first guest arrival.
         </SectionHeading>
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
