@@ -7,14 +7,14 @@ export default function About() {
       <div className="relative mx-auto grid max-w-7xl gap-10 lg:grid-cols-[0.92fr_1.08fr] lg:items-center">
         <div className="rounded-[2.5rem] border border-white bg-gradient-to-br from-aqua/20 via-white to-coral/20 p-5 shadow-premium">
           <div className="overflow-hidden rounded-[2rem]">
-            <img src="/images/founders-amit-jishan.jpg" alt="Amit Kumar and Jishan Bepari from ALL KINDS PLAY" className="aspect-[4/5] h-full w-full object-cover" />
+            <img src="/images/founders-amit-jishan.jpg" alt="Jishan Bepari and Amit Kumar from ALL KINDS PLAY" className="aspect-[4/5] h-full w-full object-cover" />
           </div>
           <div className="mt-5 grid gap-3 sm:grid-cols-2">
             <div className="rounded-3xl bg-white/85 p-4 text-center shadow-lg">
-              <p className="font-display text-xl font-black text-ink">Amit Kumar</p>
+              <p className="font-display text-xl font-black text-ink">Jishan Bepari</p>
             </div>
             <div className="rounded-3xl bg-white/85 p-4 text-center shadow-lg">
-              <p className="font-display text-xl font-black text-ink">Jishan Bepari</p>
+              <p className="font-display text-xl font-black text-ink">Amit Kumar</p>
             </div>
           </div>
         </div>
