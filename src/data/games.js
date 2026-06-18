@@ -5,7 +5,7 @@ const imageMap = {
   'Tom and Jerry bouncy castle': '/images/bouncy-castle.jpg',
   '10 Feet Trampoline': '/images/trampoline.jpg',
   'Kids ball pool': '/images/kids-soft-ball-pit.jpg',
-  'Adult Pool': '/images/kids-soft-ball-pit.jpg',
+  'Adult Pool': '/images/adult-pool.jpg',
   'Football Dart': '/images/giant-dart.jpg',
   '360 Degree Camera': '/images/camera-360-degree.jpg',
   'Catch The Baton': '/images/catch-baton.jpg',
@@ -19,7 +19,7 @@ const imageMap = {
   'Shuttlecock Throw': '/images/shuttlecock-throw.jpg',
   'Zig Zag Zop': '/images/zig-zag-zop.jpg',
   'Counter Balance': '/images/counter-balance.jpg',
-  'Hook The Ring': '/images/hook-the-ring.jpg',
+  'Hook The Ring': '/images/hook-the-ring-new.jpg',
   'Bowling alley': '/images/bowling-alley.jpg',
   'Ring Toss': '/images/ring-toss.jpg',
   'Stand The Bottle': '/images/stand-a-bottle.jpg',
@@ -39,7 +39,7 @@ const imageMap = {
   'Giant Snake and Ladder': '/images/giant-snake-and-ladder.jpg',
   'Giant Ludo': '/images/giant-ludo.jpg',
   'Tug Of War': '/images/tug-of-war.jpg',
-  'Potato Sack Race': '/images/tug-of-war.jpg',
+  'Potato Sack Race': '/images/potato-sack-race.jpg',
   'Hand and foot race': '/images/hand-and-foot-race.jpg',
   'Footprint path game': '/images/footprint-path-game.jpg',
   'Limbo': '/images/limbo.jpg',
@@ -47,7 +47,7 @@ const imageMap = {
   'Hammer': '/images/hammer.jpg',
   'Golf': '/images/golf.jpg',
   'Foosball': '/images/foosball.jpg',
-  'Batak': '/images/catch-baton.jpg',
+  'Batak': '/images/batak.jpg',
 };
 
 const descriptions = {
